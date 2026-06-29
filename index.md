@@ -3,7 +3,7 @@ layout: page
 title: Dr. John Smith
 ---
 
-# Dr. John Smith
+# Dr. ├── Smith
 
 ## Papers
 
@@ -22,7 +22,7 @@ title: Dr. John Smith
 ### Conference on Machine Learning (COML 2026)
 **Ipsum Lorem is all you need**
 - Status: **Accepted**
-- Code: [GitHub Repository](https://github.com/tripleehin/ipsum-lorem-coml2026)
+- Code: [GitHub Repository](https://github.com/fawnel/ipsum-lorem-all-you-need)
 - Camera-ready deadline: 2026-06-23
 - Oral Presentation
 
