@@ -3,7 +3,7 @@ layout: page
 title: Dr. John Smith
 ---
 
-# Dr. ├── Smith
+# Dr. John Smith
 
 ## Papers
 
